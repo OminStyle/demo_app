@@ -26,7 +26,7 @@ DemoApp::Application.routes.draw do
   #       post 'toggle'
   #     end
   #
-  #     collection do
+  #     collectiaon do
   #       get 'sold'
   #     end
   #   end
